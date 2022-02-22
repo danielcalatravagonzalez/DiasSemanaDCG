@@ -8,6 +8,7 @@ import java.util.Scanner;
 /**
  * 
  * @author Daniel Calatrava González
+ * @version 22/02/2022 1.0
  *
  */
 //Inicio del programa y declaración de variables:
@@ -34,7 +35,8 @@ public class DiasSemana {
 	}
 
 	/**
-	 * @param numerodia
+	 * Método con el que a partir del número introducido pone una respuesta u otra
+	 * @param numerodia Método con el que a partir del número introducido pone una respuesta u otra
 	 */
 	public static void decisionDia(int numerodia) {
 		String diaSemana;

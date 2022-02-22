@@ -9,8 +9,8 @@ import static org.junit.jupiter.api.Assertions.*;
 import org.junit.jupiter.api.Test;
 
 /**
- * @author Daniel
- *
+ * @author Daniel Calatrava González
+ * @version 22/02/2022 1.0
  */
 class DiasSemanaTest {
 
